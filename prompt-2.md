@@ -12,3 +12,7 @@ Refining the framework to be production ready (summary with link to README.md in
 Current State: How TAK was onboarde, and what the steps needed to onboard BECN, iBOS and eGIS are (with appropriate links to the application subfolders in tenant-applications)
 
 Make this a README.md and multiple files in a new folder in tenant-applications 
+
+You can change the order of the sections above again line them up with the md files you will be creating in this new folder 
+
+
